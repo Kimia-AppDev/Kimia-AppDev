@@ -50,4 +50,6 @@ I'm Kimia Dorkhosh, a passionate and dedicated Flutter Developer with a strong f
   <a href="mailto:kimiadorkhosh@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/kimia-dorkhosh-9630582b0/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
